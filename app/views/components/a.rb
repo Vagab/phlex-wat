@@ -1,5 +1,5 @@
 class Components::A < Phlex::HTML
   def self.a
-    @a = "yeet"
+    # whatever
   end
 end
